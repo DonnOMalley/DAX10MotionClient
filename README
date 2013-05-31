@@ -1,0 +1,16 @@
+*******************************************************************
+* DAX10 Motion Client
+* Version:  1.0                                    
+* Author: Donn O'Malley                                           
+* Created: 2012                                 
+*                                                                 
+* Description: 
+*   - Client for reading a PIR sensor and sending a web request to
+*	a DAX10Gateway Server on the same network.  
+*                                                                 
+* Notes:  
+*
+* Release Notes:
+*	- v1.0 DO 05/31/2013
+*		Initial Upload to GitHub
+*******************************************************************
